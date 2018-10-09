@@ -1,0 +1,13 @@
+Visimeet on Ubuntu
+====================
+
+Build and run visimeet in a Docker 14.04 container.
+
+You must have Docker installed first - https://docs.docker.com/install/ .
+
+This has been tested on Ubuntu 18.04 - YMMV
+
+Run ./build.sh to build the Docker image.
+
+Run ./run.sh to run visimeet in a container against your uid and $HOME.
+
